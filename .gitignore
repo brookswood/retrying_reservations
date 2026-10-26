@@ -1,0 +1,17 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Log and Output Files
+*.log
+*.out
+
+# Shell / Environment
+.env
+.env.*
+!.env.example
+
+# Temporary / Backup Files
+*~
+*.swp
+*.bak
